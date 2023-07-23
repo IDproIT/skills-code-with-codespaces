@@ -1,0 +1,12 @@
+https://github.com/IDproIT/skills-code-with-codespaces/new/main
+{
+    // Name this configuration
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
